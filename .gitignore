@@ -1,5 +1,2 @@
-dist
-safetensors_manager/
-shards
-.safetensors
-.egg
+
+*.safetensors
