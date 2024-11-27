@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+safetensors_manager/__init__.py
+safetensors_manager/file_utils.py
+safetensors_manager/merger.py
+safetensors_manager/splitter.py
+safetensors_manager.egg-info/PKG-INFO
+safetensors_manager.egg-info/SOURCES.txt
+safetensors_manager.egg-info/dependency_links.txt
+safetensors_manager.egg-info/top_level.txt

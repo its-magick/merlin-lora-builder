@@ -3,3 +3,4 @@ math
 json
 safetensors==0.4.3
 torch==2.3.1
+wget
